@@ -1,4 +1,7 @@
-Alles klar — hier ist eine **exakte ILP-Formulierung** fürs Role Mining mit Ziel *„#Rollen minimieren“*. Du kannst sie 1:1 in einen MIP-Solver (Gurobi, CBC, OR-Tools, CPLEX) kippen.
+Eine **exakte ILP-Formulierung** fürs Role Mining mit Ziel *„#Rollen minimieren“*. Man kann sie 1:1 in einen MIP-Solver (Gurobi, CBC, OR-Tools, CPLEX) kippen.
+
+## Ausführen
+* Exportiere den Berechtigungsexport in eine semikolongetrennte CSV (Excel) und ersetze das Beispiel datenfull.csv.
 
 ## Setup
 
